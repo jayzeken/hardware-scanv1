@@ -1,3 +1,7 @@
 this is a booty gpu hardware scan written in python
 
-it was supposed to be used for key encryption (hardware acceleration) but i got too lazy writing the code for hardware acceleration
+this code was supposed to be used for GPU hardware acceleration. however i realized that i didnt require GPU hardware acceleration because i didnt need it.
+
+im dumping this code here to save space on my computer
+
+its free use. go crazy i guess
